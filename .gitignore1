@@ -1,0 +1,4 @@
+.project /node_module/test
+.gitignore2/
+ node_module/
+
