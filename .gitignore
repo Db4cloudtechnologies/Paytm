@@ -1,4 +1,6 @@
 .project
 
 /node_modules
+.gitignore2
+/node_module/
 
